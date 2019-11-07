@@ -1,0 +1,11 @@
+/Users/wolfea/Prime/C#-spike/obj/Debug/netcoreapp3.0/C#-spike.csprojAssemblyReference.cache
+/Users/wolfea/Prime/C#-spike/obj/Debug/netcoreapp3.0/C#-spike.AssemblyInfoInputs.cache
+/Users/wolfea/Prime/C#-spike/obj/Debug/netcoreapp3.0/C#-spike.AssemblyInfo.cs
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike.deps.json
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike.runtimeconfig.json
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike.runtimeconfig.dev.json
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike.dll
+/Users/wolfea/Prime/C#-spike/bin/Debug/netcoreapp3.0/C#-spike.pdb
+/Users/wolfea/Prime/C#-spike/obj/Debug/netcoreapp3.0/C#-spike.dll
+/Users/wolfea/Prime/C#-spike/obj/Debug/netcoreapp3.0/C#-spike.pdb

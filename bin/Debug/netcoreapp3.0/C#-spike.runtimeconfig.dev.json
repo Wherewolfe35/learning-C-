@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wolfea/.dotnet/store/|arch|/|tfm|",
+      "/Users/wolfea/.nuget/packages"
+    ]
+  }
+}
